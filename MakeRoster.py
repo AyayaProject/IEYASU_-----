@@ -2,6 +2,12 @@
 import openpyxl #Excel操作系
 import os #ファイル存在確認
 
+#コミット用
+#git remote add origin https://github.com/AyayaProject/python_practice.git
+#git branch -M main
+#git push -u origin main
+
+
 #設定ファイルの格納(固定のため埋め込み) 参考URL:https://python.keicode.com/lang/file-exists.php
 StrSettingFilePass = 'Setting\\UserSettingConfig.xlsx'
 
